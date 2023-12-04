@@ -1,0 +1,204 @@
+datasets/Unitopatho/features/train_npy/100-B2-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/101-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/103-B3-HP_0.npy,0
+datasets/Unitopatho/features/train_npy/104-B3-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/105-B3-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/108-B3-TVAHG_4.npy,4
+datasets/Unitopatho/features/train_npy/109-B3-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/113-B3-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/114-B3-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/117-B3-TVAHG_4.npy,4
+datasets/Unitopatho/features/train_npy/118-B3-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/124-B3-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/125-B3-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/127-B3-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/130-B3-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/131-B3-NORM_1.npy,1
+datasets/Unitopatho/features/train_npy/132-B3-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/133-B3-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/136-B3-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/137-B3-TAHG_2.npy,2
+datasets/Unitopatho/features/train_npy/142-B3-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/143-B3-TVAHG_4.npy,4
+datasets/Unitopatho/features/train_npy/144-B3-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/148-B3-HP_0.npy,0
+datasets/Unitopatho/features/train_npy/149-B3-HP_0.npy,0
+datasets/Unitopatho/features/train_npy/151-B4-HP_0.npy,0
+datasets/Unitopatho/features/train_npy/154-B4-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/158-B4-HP_0.npy,0
+datasets/Unitopatho/features/train_npy/159-B4-HP_0.npy,0
+datasets/Unitopatho/features/train_npy/165-B4-HP_0.npy,0
+datasets/Unitopatho/features/train_npy/167-B4-HP_0.npy,0
+datasets/Unitopatho/features/train_npy/168-B4-HP_0.npy,0
+datasets/Unitopatho/features/train_npy/169-B4-HP_0.npy,0
+datasets/Unitopatho/features/train_npy/170-B4-HP_0.npy,0
+datasets/Unitopatho/features/train_npy/171-B4-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/172-B4-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/173-B4-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/174-B4-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/176-B4-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/178-B4-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/181-B4-TVAHG_4.npy,4
+datasets/Unitopatho/features/train_npy/182-B4-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/184-B4-NORM_1.npy,1
+datasets/Unitopatho/features/train_npy/185-B4-NORM_1.npy,1
+datasets/Unitopatho/features/train_npy/189-B4-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/190-B4-TVAHG_4.npy,4
+datasets/Unitopatho/features/train_npy/191-B4-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/194-B4-HP_0.npy,0
+datasets/Unitopatho/features/train_npy/196-B4-NORM_1.npy,1
+datasets/Unitopatho/features/train_npy/198-B4-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/200-B4-TVAHG_4.npy,4
+datasets/Unitopatho/features/train_npy/201-B5-TVAHG_4.npy,4
+datasets/Unitopatho/features/train_npy/203-B5-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/205-B5-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/207-B5-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/208-B5-NORM_1.npy,1
+datasets/Unitopatho/features/train_npy/209-B5-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/210-B5-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/212-B5-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/213-B5-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/215-B5-NORM_1.npy,1
+datasets/Unitopatho/features/train_npy/216-B5-NORM_1.npy,1
+datasets/Unitopatho/features/train_npy/217-B5-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/218-B5-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/219-B5-TAHG_2.npy,2
+datasets/Unitopatho/features/train_npy/220-B5-TVAHG_4.npy,4
+datasets/Unitopatho/features/train_npy/221-B5-TAHG_2.npy,2
+datasets/Unitopatho/features/train_npy/223-B5-TAHG_2.npy,2
+datasets/Unitopatho/features/train_npy/224-B5-HP_0.npy,0
+datasets/Unitopatho/features/train_npy/225-B5-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/226-B5-TAHG_2.npy,2
+datasets/Unitopatho/features/train_npy/227-B5-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/236-B5-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/237-B5-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/239-B5-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/244-B5-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/245-B5-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/249-B5-TVAHG_4.npy,4
+datasets/Unitopatho/features/train_npy/250-B5-HP_0.npy,0
+datasets/Unitopatho/features/train_npy/251-B5-TVAHG_4.npy,4
+datasets/Unitopatho/features/train_npy/252-B5-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/264-B5-NORM_1.npy,1
+datasets/Unitopatho/features/train_npy/265-B5-NORM_1.npy,1
+datasets/Unitopatho/features/train_npy/266-B5-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/267-B5-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/268-B5-TVAHG_4.npy,4
+datasets/Unitopatho/features/train_npy/269-B5-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/270-B5-TAHG_2.npy,2
+datasets/Unitopatho/features/train_npy/271-B5-NORM_1.npy,1
+datasets/Unitopatho/features/train_npy/51-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/52-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/54-B2-TAHG_2.npy,2
+datasets/Unitopatho/features/train_npy/55-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/57-B2-NORM_1.npy,1
+datasets/Unitopatho/features/train_npy/58-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/61-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/62-B2-TAHG_2.npy,2
+datasets/Unitopatho/features/train_npy/68-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/69-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/70-B2-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/72-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/73-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/74-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/75-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/76-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/79-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/80-B2-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/81-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/82-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/84-B2-TAHG_2.npy,2
+datasets/Unitopatho/features/train_npy/86-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/87-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/89-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/90-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/91-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/93-B2-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/94-B2-TALG_3.npy,3
+datasets/Unitopatho/features/train_npy/96-B2-TVALG_5.npy,5
+datasets/Unitopatho/features/train_npy/HP CASO 1 - 2018-12-04 13.30.08_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 2 - 2018-12-04 13.56.35_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 24 - 2019-03-04 08.59.32_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 26 - 2019-03-04 09.51.06_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 28 - 2019-03-04 17.34.19_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 36_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 38_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 39_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 40 B1_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 41 B1_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 42_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 43 B1_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 43 D1_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 44_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 45_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 46_0.npy,0
+datasets/Unitopatho/features/train_npy/HP CASO 47_0.npy,0
+datasets/Unitopatho/features/train_npy/NORM CASO 7 - 2019-03-01 09.12.01_1.npy,1
+datasets/Unitopatho/features/train_npy/NORM CASO 8 - 2019-03-04 08.51.07_1.npy,1
+datasets/Unitopatho/features/train_npy/TA.HG CASO 1 - 2018-12-04 12.58.12_2.npy,2
+datasets/Unitopatho/features/train_npy/TA.HG CASO 10 - 2019-03-04 09.24.36_2.npy,2
+datasets/Unitopatho/features/train_npy/TA.HG CASO 10_2.npy,2
+datasets/Unitopatho/features/train_npy/TA.HG CASO 13_2.npy,2
+datasets/Unitopatho/features/train_npy/TA.HG CASO 14_2.npy,2
+datasets/Unitopatho/features/train_npy/TA.HG CASO 15_2.npy,2
+datasets/Unitopatho/features/train_npy/TA.HG CASO 16_2.npy,2
+datasets/Unitopatho/features/train_npy/TA.HG CASO 17_2.npy,2
+datasets/Unitopatho/features/train_npy/TA.LG CASO 100_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 101 B1_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 102_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 104 A1_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 105_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 106_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 107_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 11 - 2018-12-04 13.46.00_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 14 - 2018-12-04 13.51.01_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 2 - 2018-12-04 12.55.38_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 3 - 2018-12-04 13.14.40_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 4 - 2018-12-04 13.29.01_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 45 - 2019-03-01 08.32.26_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 47 - 2019-03-01 08.51.33_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 49 - 2019-03-04 07.38.56_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 5 - 2018-12-04 13.34.36_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 50 - 2019-03-04 08.13.45_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 51 - 2019-03-04 08.23.50_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 52 - 2019-03-04 08.34.05_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 53 - 2019-03-04 08.42.25_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 55 - 2019-03-04 09.43.03_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 56 - 2019-03-04 10.00.26_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 57 - 2019-03-04 10.09.38_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 58 - 2019-03-04 16.24.00_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 60 - 2019-03-04 16.40.51_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 62 - 2019-03-04 17.11.05_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 64 - 2019-03-04 17.42.27_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 65 - 2019-03-04 18.07.00_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 66 - 2019-03-04 18.29.55_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 7 - 2018-12-04 13.37.32_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 74 8424.19_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 75_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 76_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 77_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 78_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 79_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 80 A1_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 80 C1_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 81_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 84_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 85_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 86_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 88 A1_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 88 B1_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 89_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 9 - 2018-12-04 13.41.36_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 91_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 92 B1_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 93_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 97_3.npy,3
+datasets/Unitopatho/features/train_npy/TA.LG CASO 99_3.npy,3
+datasets/Unitopatho/features/train_npy/TVA.HG CASO 2 - 2018-12-04 12.53.37_4.npy,4
+datasets/Unitopatho/features/train_npy/TVA.HG CASO 4 - 2018-12-04 13.15.43_4.npy,4
+datasets/Unitopatho/features/train_npy/TVA.LG CASO 1 - 2018-12-04 13.17.55_5.npy,5
+datasets/Unitopatho/features/train_npy/TVA.LG CASO 10_5.npy,5
+datasets/Unitopatho/features/train_npy/TVA.LG CASO 11_5.npy,5
+datasets/Unitopatho/features/train_npy/TVA.LG CASO 2 - 2018-12-04 13.19.16_5.npy,5
+datasets/Unitopatho/features/train_npy/TVA.LG CASO 4 - 2018-12-04 13.25.02_5.npy,5
+datasets/Unitopatho/features/train_npy/TVA.LG CASO 9_5.npy,5

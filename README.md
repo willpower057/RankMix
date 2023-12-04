@@ -25,8 +25,9 @@ conda install -c pytorch faiss-gpu
 
 
 # Get our patch features and model weights
-1. patch features of Camelyon16 dataset
-2. model weights of feature extractor for Camelyon16
+1. [ ] patch features of Camelyon16 dataset
+2. [x] model weights of feature extractor for Camelyon16 in ./simclr/runs/mil_c16
+
 To be updated
 
 
