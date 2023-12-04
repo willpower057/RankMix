@@ -220,14 +220,8 @@ def main():
             else:
                 raise ValueError('Please use batch normalization for ImageNet feature')
         else:  
-            # C16         
-            if args.weights_high == 'mil_tcga_lung' or args.weights_low == 'mil_tcga_lung' or args.weights== 'mil_tcga_lung':
-                weight_path = os.path.join('simclr', 'runs', 'mil_tcga_lung', 'model-v1.pth')                
-            elif args.weights_high == 'mil_c16_v2'  or args.weights== 'mil_c16_v2':
-                weight_path = os.path.join('simclr', 'runs', 'mil_c16', '20x', 'model-v2.pth') 
-            elif args.weights_high == 'mil_c16_v1'  or args.weights== 'mil_c16_v1':
-                weight_path = os.path.join('simclr', 'runs', 'mil_c16', '20x', 'model-v1.pth')
-            elif args.weights_high == 'mil_c16_v0'  or args.weights== 'mil_c16_v0':
+            # C16 
+            if args.weights_high == 'mil_c16_v0'  or args.weights== 'mil_c16_v0':
                 weight_path = os.path.join('simclr', 'runs', 'mil_c16', '20x', 'model-v0.pth')  
             else:             
                 weight_path = os.path.join('simclr', 'runs', args.weights_high, 'checkpoints', 'model.pth')
@@ -244,12 +238,10 @@ def main():
             i_classifier_h.load_state_dict(new_state_dict, strict=False)
             os.makedirs(os.path.join('embedder', args.output_dir), exist_ok=True)
             torch.save(new_state_dict, os.path.join('embedder', args.output_dir, 'embedder-high.pth'))
-            
-            if args.weights_high.startswith('mil_c16') and args.weights_low.startswith('mil_c16') :
-                weight_path = os.path.join('simclr', 'runs', 'mil_c16', '5x', 'model.pth') 
-            elif args.weights_high.startswith('mil_c16') and args.weights_low.startswith('c16_low'):
+                                   
+            if args.weights_high.startswith('mil_c16') and args.weights_low.startswith('mil_c16_low'):
                 model_name = "model_{}.pth".format(args.weights_low.split('_')[-1])
-                weight_path = os.path.join('simclr', 'runs', 'Jun14_c16_low', 'checkpoints', model_name)
+                weight_path = os.path.join('simclr', 'runs', 'mil_c16', '5x', model_name)
             else:
                 weight_path = os.path.join('simclr', 'runs', args.weights_low, 'checkpoints', 'model.pth')
             print(f"Loading weights_low: {weight_path}")
@@ -275,15 +267,11 @@ def main():
                 print('Use ImageNet features.')
             else:
                 print('Please use batch normalization for ImageNet feature')
-        else:            
-            if args.magnification == 'high' and args.weights== 'mil_c16_v2':
-                weight_path = os.path.join('simclr', 'runs', 'mil_c16', '20x', 'model-v2.pth') 
-            elif args.magnification == 'high' and args.weights== 'mil_c16_v1':
-                weight_path = os.path.join('simclr', 'runs', 'mil_c16', '20x', 'model-v1.pth')
-            elif args.magnification == 'high' and args.weights== 'mil_c16_v0':
+        else:
+            if args.magnification == 'high' and args.weights== 'mil_c16_v0':
                 weight_path = os.path.join('simclr', 'runs', 'mil_c16', '20x', 'model-v0.pth')
-            elif args.magnification == 'low' and args.weights== 'mil_c16':
-                weight_path = os.path.join('simclr', 'runs', 'mil_c16', '5x', 'model.pth')  
+            elif args.magnification == 'low' and args.weights== 'mil_c16_low_99':
+                weight_path = os.path.join('simclr', 'runs', 'mil_c16', '5x', 'model_99.pth')  
             elif args.weights is not None:
                 weight_path = os.path.join('simclr', 'runs', args.weights, 'checkpoints', 'model.pth')
             else:
